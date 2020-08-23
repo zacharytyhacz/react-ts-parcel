@@ -12,7 +12,7 @@ A quick get started template I have been working with that helps me jump right i
 
 ## Run 
 ```bash
-$ git clone https://github.com/zacharytyhacz/react-ts-parcel myproject
+$ git clone git@github.com:zacharytyhacz/react-ts-parcel.git myproject
 
 $ cd myproject
 
