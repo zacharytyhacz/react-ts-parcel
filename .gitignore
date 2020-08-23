@@ -1,0 +1,9 @@
+.DS_Store
+/node_modules
+/.cache
+.env
+/dist
+*.swo
+*.swp
+/assets/images/demo
+/config/settings.json
