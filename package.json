@@ -1,0 +1,30 @@
+{
+  "name": "my-app",
+  "version": "0.0.1",
+  "main": "index.tsx",
+  "private": true,
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.35",
+    "@types/react-dom": "^16.9.8",
+    "node-sass": "^4.14.1",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.5",
+    "typescript": "^3.9.3"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "prop-types": "^15.0.0",
+    "pure-store": "^1.1.0",
+    "react": "^15.0.0 || ^16.0.0",
+    "react-dom": "^15.0.0 || ^16.0.0",
+    "react-router": "^6.0.0-alpha.5",
+    "react-router-dom": "^6.0.0-alpha.5"
+  },
+  "browserslist": [
+    "last 2 Chrome versions"
+  ]
+}
